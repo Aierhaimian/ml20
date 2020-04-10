@@ -26,3 +26,5 @@
 ## 仓库更新日志
 
 2020.04.09 初始化仓库。
+
+2020.04.10 更新Introduction和Regression课程内容已经Regression作业。
